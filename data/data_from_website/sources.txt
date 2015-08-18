@@ -1,0 +1,11 @@
+Website: 
+http://www.stat.go.jp/english/data/chouki/02.htm
+(Accessed 18/8/2015)
+
+Tables downloaded:
+
+1) 2.2 - population by single years of age and sex (1884 - 2005)
+
+2) 2-29-a - Live births by five year age groups of mother (1925 - 2004)
+
+3) 2-30-a - Deaths by five year age groups of mother (1925 - 2004)
